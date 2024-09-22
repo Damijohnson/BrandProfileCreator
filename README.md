@@ -102,6 +102,8 @@ If the stock is public include the share price.
 }
 ``` 
 
+*This snippet checks if a company is public or has had an IPO. If true, it adds the stock ticker and share price to the brand profile.*
+
 <br>
 
 ## Changelog
